@@ -12,3 +12,5 @@ from school.classrooms import *
 from school.classrooms.classroom1 import *
 
 print(get_grades())
+
+number = float(int(input('Zadej číslo')))
